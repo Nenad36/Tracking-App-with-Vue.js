@@ -1,4 +1,4 @@
-# geoapp
+# geo-location tracker
 
 > A Vue.js project
 
